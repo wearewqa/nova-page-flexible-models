@@ -5,7 +5,6 @@ namespace WQA\NovaPageFlexibleModels;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 use Whitecube\NovaFlexibleContent\Flexible;
-use App\Nova\Flexible\Presets\FlexibleModelPreset;
 use Whitecube\NovaFlexibleContent\Concerns\HasFlexible;
 
 trait HasFlexibleModels
