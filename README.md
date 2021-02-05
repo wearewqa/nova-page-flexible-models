@@ -2,7 +2,7 @@
 
 A package for Laravel Nova which extends [Nova Page](https://github.com/whitecube/nova-page) and [Nova Flexible Content](https://github.com/whitecube/nova-flexible-content) and enables you to relate Laravel models to your Nova Pages using Flexible Content.
 
-![Testimonials example](https://github.com/WQA-Ltd/nova-page-flexible-models/raw/readme-assets/testimonials-screenshot.png)
+![Testimonials example](https://raw.githubusercontent.com/WQA-Ltd/nova-page-flexible-models/master/readme-assets/testimonials-screenshot.png)
 
 ## Installation
 
