@@ -10,8 +10,8 @@
   ],
   "require": {
     "laravel/nova": "*",
-    "whitecube/nova-flexible-content": "^0.2.7",
-    "whitecube/nova-page": "^0.2.5|^1.0"
+    "whitecube/nova-flexible-content": "^0.2.7|^1.0",
+    "whitecube/nova-page": "^0.2.5"
   },
   "autoload": {
     "psr-4": {
