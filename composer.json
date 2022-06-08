@@ -11,7 +11,7 @@
   "require": {
     "laravel/nova": "*",
     "whitecube/nova-flexible-content": "^0.2.7|^1.0",
-    "whitecube/nova-page": "^0.2.5"
+    "whitecube/nova-page": "^0.2"
   },
   "autoload": {
     "psr-4": {
